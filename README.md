@@ -17,7 +17,6 @@ Bibtex:
  author={Wenxiang Jiang and Lihong Xu},
  journal={2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
  year={2023},
- pages={542-547},
- url={https://api.semanticscholar.org/CorpusID:267338196}
+ pages={542-547}
 }
 ```
