@@ -1,6 +1,6 @@
 # ICN-SAEA
 
-This repository provides implementations for the paper:
+This repository provides implementations for the paper: "[Surrogate-Assisted Evolutionary Optimization Based on Interpretable Convolution Network]([https://arxiv.org/abs/2109.10964](https://ieeexplore.ieee.org/document/10394547))."
 
 ## Absract
 
@@ -11,3 +11,11 @@ When performing evolutionary optimization for computationally expensive objectiv
 If you find our work and this repository useful. Please consider giving a star and citation.
 
 Bibtex:
+@article{Jiang2023SurrogateAssistedEO,
+ title={Surrogate-Assisted Evolutionary Optimization Based on Interpretable Convolution Network},
+ author={Wenxiang Jiang and Lihong Xu},
+ journal={2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+ year={2023},
+ pages={542-547},
+ url={https://api.semanticscholar.org/CorpusID:267338196}
+}
