@@ -1,6 +1,6 @@
 # ICN-SAEA
 
-This repository provides implementations for the paper: "[Surrogate-Assisted Evolutionary Optimization Based on Interpretable Convolution Network]([https://arxiv.org/abs/2109.10964](https://ieeexplore.ieee.org/document/10394547))."
+This repository provides implementations for the paper: "[Surrogate-Assisted Evolutionary Optimization Based on Interpretable Convolution Network](https://arxiv.org/abs/2109.10964(https://ieeexplore.ieee.org/document/10394547)."
 
 ## Absract
 
