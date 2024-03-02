@@ -12,11 +12,12 @@ If you find our work and this repository useful. Please consider giving a star a
 
 Bibtex:
 ```
-@article{Jiang2023SurrogateAssistedEO,
- title={Surrogate-Assisted Evolutionary Optimization Based on Interpretable Convolution Network},
- author={Wenxiang Jiang and Lihong Xu},
- journal={2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
- year={2023},
- pages={542-547}
+@inproceedings{jiang2023surrogate,
+  title={Surrogate-Assisted Evolutionary Optimization Based on Interpretable Convolution Network},
+  author={Jiang, Wenxiang and Xu, Lihong},
+  booktitle={2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pages={542--547},
+  year={2023},
+  organization={IEEE}
 }
 ```
